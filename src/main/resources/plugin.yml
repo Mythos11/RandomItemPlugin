@@ -1,0 +1,13 @@
+name: RandomItems
+version: '${version}'
+main: me.mythos.eventserver.Main
+api-version: 1.18
+authors: [ Mythos ]
+description: Item drops are randomised and multiplied
+website: https://github.com/Mythos11
+
+commands:
+  test:
+    aliases: kit
+    usage: /test
+    description: this is a test command
